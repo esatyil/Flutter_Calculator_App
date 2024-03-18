@@ -1,18 +1,15 @@
-# calculator
+# Calculator
 
 Calculator App with Flutter&Dart.
-
-## Getting Started
-
 ![screenshot](resources/calc_img.png)
 
-This project is a starting point for a Flutter application.
+## Why to use it?
 
-A few resources to get you started if this is your first Flutter project:
+It is useful for simple calculations and operations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to run?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this app simply clone the project and run it with Android studio.
+
+
+
