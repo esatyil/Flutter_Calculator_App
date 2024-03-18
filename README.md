@@ -1,6 +1,5 @@
 # Calculator
 
-Calculator App with Flutter&Dart.
 ![screenshot](resources/calc_img.png)
 
 ## Why to use it?
